@@ -19,3 +19,10 @@ flag: The query (lyx). If there is no query, then this value is NO_QUERY. user: 
 text: the text of the tweet (Lyx is cool)
 
 
+### Description: 
+
+•	Pre-processsing of text is handled which includes casing, noise removal, tokenization, stop words removal, text normalization(stemming and lemmatization)
+
+•	Tokens are vectorized as machine can only read numerical data 
+
+•	Machine learning algorithm RandomForestClassifier is used for model training
