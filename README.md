@@ -26,3 +26,6 @@ text: the text of the tweet (Lyx is cool)
 •	Tokens are vectorized as machine can only read numerical data 
 
 •	Machine learning algorithm RandomForestClassifier is used for model training
+
+#### Note -- I have just taken very small amount of data for minimizing the computational power. One can use the entire dataset to and train it to increase the accuracy; can even chose a differnt classifier algorithms of your choice
+
